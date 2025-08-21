@@ -30,7 +30,7 @@ const Nav = () => {
           <Link to="/About" onClick={() => setIsOpen(false)}>About Us</Link>
         </li>
         <li>
-          <Link to="/Facilites" onClick={() => setIsOpen(false)}>Facilities</Link>
+          <Link to="/facilities" onClick={() => setIsOpen(false)}>Facilities</Link>
         </li>
         <li>
           <Link to="/Gallery" onClick={() => setIsOpen(false)}>Gallery</Link>

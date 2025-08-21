@@ -12,8 +12,6 @@
 
 .home-details {
   flex: 1;
-  min-width: 300px;
-  max-width: 600px;
 }
 
 .home-details h2 {
@@ -30,11 +28,13 @@
 }
 
 .home-details p {
+  padding-left: 30px;
+  padding-right: 30px;
   line-height: 1.6;
   color: #333;
   font-size: 1rem;
   text-align: justify;
-  padding-left: 150px;
+  
 }
 
 /* Responsive adjustments */
