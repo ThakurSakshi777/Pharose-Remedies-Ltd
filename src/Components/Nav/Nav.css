@@ -1,6 +1,6 @@
 
 .nav {
-  background-color: #e2e2ecf2;
+  background-color: #f4f4f7f2;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -14,6 +14,7 @@
 .logo img {
   height: 50px;
   cursor: pointer;
+  border-radius: 20px;
 }
 
 /* Menu */
@@ -58,7 +59,7 @@
     top: 70px;
     left: -100%;
     flex-direction: column;
-    background: rgba(210, 223, 230, 0.808);
+    background: rgba(224, 230, 232, 0.808);
     width: 100%;
     text-align: center;
     transition: 0.3s;

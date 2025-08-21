@@ -12,10 +12,9 @@ import g4 from "../../assets/g4.jpg";
 const Home = () => {
   return (
     <div className='home'> 
-    <h2> From Infinity </h2>
-    <h2> Flows Purity </h2>
-    
-      <img src={moutain} alt="Moutain img" /> 
+    <div className="home-container">
+       <img src={moutain} alt="Moutain img" /> 
+
       <div className='home-details'>
          <h2> Welcome To Pharose Remedies Ltd.</h2>
 
@@ -30,6 +29,8 @@ const Home = () => {
         With a mission to improve lives and a vision to create a healthier future, Pharose Remedies Ltd. continues to serve doctors, patients, and communities with integrity and responsibility.</p>
           
       </div>
+      </div>
+      
       <div className="banner">
         <img  className='banner1' src={banner1} alt="" />
         <img  className='banner1' src={banner2} alt="" />
