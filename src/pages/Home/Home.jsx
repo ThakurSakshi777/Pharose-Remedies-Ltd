@@ -4,10 +4,10 @@ import Nav from '../../Components/Nav/Nav'
 import moutain from "../../assets/Moutain.webp";
 import banner1 from "../../assets/banner1.jpg";
 import banner2 from "../../assets/banner2.jpg";
-import g5 from "../../assets/g5.jpg";
-import g2 from "../../assets/g2.jpg";
-import g3 from "../../assets/g3.jpg";
-import g4 from "../../assets/g4.jpg";
+import g5 from "../../assets/1.jpg";
+import g2 from "../../assets/2.jpg";
+import g3 from "../../assets/3.jpg";
+import g4 from "../../assets/4.jpg";
 
 const Home = () => {
   return (
@@ -46,7 +46,7 @@ const Home = () => {
         <img src={g4} alt="Gallery 4" className="gallery-img" />
       </div>
 
-      <a href=""> <button className="view-more-btn">View More</button></a>
+      <a href="/Gallery"> <button className="view-more-btn">View More</button></a>
     </div>
     </div>
   )
