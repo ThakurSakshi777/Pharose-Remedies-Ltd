@@ -1,5 +1,5 @@
 
-# 🌸 Pharose Memories — React (Vite)
+# 🌸 Pharose Remedies Ltd — React (Vite)
 
 A clean, responsive website to showcase memories/photos with pages for Home, Gallery, Facilities, About, Contact, plus a responsive navbar and footer.
 
