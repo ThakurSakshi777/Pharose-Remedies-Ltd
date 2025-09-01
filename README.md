@@ -26,6 +26,7 @@ A clean, responsive website to showcase memories/photos with pages for Home, Gal
 ├── public/
 ├── src/
 │ ├── assets/
+
 │ ├── Components/
 │ │ ├── Footer/
 │ │ │ ├── Footer.css
@@ -33,6 +34,8 @@ A clean, responsive website to showcase memories/photos with pages for Home, Gal
 │ │ └── Nav/
 │ │ ├── Nav.css
 │ │ └── Nav.jsx
+
+
 │ ├── pages/
 │ │ ├── About/
 │ │ │ ├── About.css
@@ -49,6 +52,7 @@ A clean, responsive website to showcase memories/photos with pages for Home, Gal
 │ │ └── Home/
 │ │ ├── Home.css
 │ │ └── Home.jsx
+
 │ ├── App.css
 │ ├── App.jsx
 │ ├── index.css
@@ -73,7 +77,7 @@ A clean, responsive website to showcase memories/photos with pages for Home, Gal
 
 /Contact → Contact
 
-/Clients → Testimonials/Clients (if added)
+## 📸 Screenshots
 
 ![Home](<img width="1837" height="996" alt="Screenshot 2025-08-31 174422" src="https://github.com/user-attachments/assets/e4fcb179-7825-4b4a-9b45-34a67e5fa1b8" />
 )
